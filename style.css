@@ -1,1 +1,45 @@
 
+body {
+  background-color: rgb(230, 245, 255);
+  font-family: Arial, sans-serif;
+}
+
+
+h1 {
+  color: #0066cc;
+  text-align: center;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: auto;
+  background-color: white;
+}
+
+th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 8px;
+}
+
+
+th {
+  background-color: lightblue;
+  color: navy;
+  font-style: italic;
+  font-weight: bold;
+}
+
+img {
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+}
+
+.note {
+  text-align: center;
+  margin-top: 15px;
+  color: gray;
+}
